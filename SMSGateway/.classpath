@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Arga/Documents/LION/smslib-3.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arga/Documents/LION/slf4j-1.7.7/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arga/Documents/LION/slf4j-1.7.7/slf4j-simple-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arga/.m2/repository/mysql/mysql-connector-java/5.1.25/mysql-connector-java-5.1.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arga/Documents/LION/rabbitmq-java-client-bin-3.3.0/commons-cli-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arga/Documents/LION/rabbitmq-java-client-bin-3.3.0/commons-io-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arga/Documents/LION/rabbitmq-java-client-bin-3.3.0/rabbitmq-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arga/Documents/LION/java-lib/LION JAR/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
